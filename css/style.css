@@ -284,7 +284,9 @@
   font-weight: bold;
   text-decoration: none;
 }
-
+.add-button:hover{
+  background: #0e2659;
+}
 
 .toolbar {
   display: flex;
@@ -346,3 +348,4 @@
   border-radius: 6px;
   background: white;
 }
+
