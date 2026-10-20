@@ -154,6 +154,7 @@
 
 .stat-card:hover {
  border-top: 6px solid #22c55e;
+ text-decoration: underline;
 }
 
 
