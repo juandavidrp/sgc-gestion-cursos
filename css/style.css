@@ -148,7 +148,15 @@
     position: relative;
     overflow: hidden;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+     border-top: 6px solid transparent;
+  }
+
+
+.stat-card:hover {
+ border-top: 6px solid #22c55e;
 }
+
+
 
 .dashboard-card .number {
   font-size: 24px;
